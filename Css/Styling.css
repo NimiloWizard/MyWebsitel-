@@ -40,8 +40,8 @@ section::before{
     z-index: -1;
     background: linear-gradient(
         0deg,
-         rgb(0 0 0 /.1),
-         rgb( 0 0 0 /.1)
+         rgb(0 0 0 /.8),
+         rgb( 0 0 0 /.5)
     );
     
 }
@@ -1552,6 +1552,7 @@ footer span a:hover{
 
  #MyProject .row #coloumn{
     margin-bottom: 20px;
+    marin-left: 10px;
  }
 
  .Inquiry h2{
